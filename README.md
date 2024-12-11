@@ -1,3 +1,15 @@
 # Hacker News Search App
 
-Create a React app with an input field and a button.  When the user enters a search term in the input field and clicks the button, the app should fetch articles matching the search term from the [Hacker News API](https://hn.algolia.com/api) and display a list of links with the titles. Create a UserInput component for the input field and the button and a RenderData component for displaying the search results. Use the useEffect() hook for fetching.
+Hacker News Search App
+A React-based web application that uses the Hacker News API to search and display articles.
+
+# Features
+**Search Functionality:** Search for articles using keywords.
+**Article Details:** Display article titles, authors, points, and a link to the original source.
+**Responsive Design:** Optimized for various screen sizes.
+# Technologies Used
+## Frontend:
+React
+CSS (or any preferred CSS framework)
+API:
+Hacker News Search API
